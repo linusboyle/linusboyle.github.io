@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hzl21@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "https://www.last.fm/zh/user/ZhileiHan"
+  lastfm           : "ZhileiHan"
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-9171-4997"
   pinterest        :
