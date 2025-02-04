@@ -14,4 +14,4 @@ I'm a PhD candidate at the [School of Software](https://www.thss.tsinghua.edu.cn
 
 I received BS from the [Department of Computer Science and Techonology](https://www.cs.tsinghua.edu.cn/csen/) of Tsinghua University. Previously, I have done researches on formally verified compiler for synchronous data-flow language (Lustre), and string constriants solving (check out our string solver [OSTRICH](https://github.com/uuverifiers/ostrich)!) under supervision of [Shengyuan Wang](https://www.cs.tsinghua.edu.cn/info/1112/3496.htm) and [Zhilin Wu](http://lcs.ios.ac.cn/~wuzl/index.html) respectively.
 
-For more information, you may take a look at my [blog](https://blog.linusboyle.cn) (it's mainly in Chinese).
+For more information, you may take a look at my [blog](https://garden.linusboyle.cn) (it's mainly in Chinese).
