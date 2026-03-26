@@ -6,3 +6,5 @@ excerpt: 'We present the first approach to infer accurate termination conditions
 date: 2026-01-01
 venue: '48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)'
 ---
+
+We have the honor of being granted the **Distinguished Paper Award**!
